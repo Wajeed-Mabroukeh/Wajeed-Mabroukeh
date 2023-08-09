@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Wajeed Mabroukeh</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
-<p align="left"> <a href="https://twitter.com/WMabroukeh" target="blank"><img src="https://img.shields.io/twitter/follow/WMabroukeh?logo=twitter&style=for-the-badge" alt="wajeedmabroukeh" /></a> </p>
-
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Gaza Sky Geeks**
+<p align="left"> <a href="https://twitter.com/WMabroukeh" target="blank"><img src="https://img.shields.io/twitter/follow/WMabroukeh?logo=twitter&style=for-the-badge" alt="wajeedmabroukeh" /></a> </- 🔭 I’m currently 
 
 - 📫 How to reach me **wajeed.mabroukeh@gmail.com**
 
