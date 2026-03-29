@@ -101,6 +101,7 @@
 | Area | Technologies | Focus |
 |------|--------------|-------|
 | **Backend Development** | Java, Python, Node.js, PHP ,ASP.NET | Scalable APIs, microservices, system design |
+| **Frontend Development** | Java FX, React|Responsive UI, user-friendly design, performance optimization, state management |
 | **Data Analytics** | Pandas, NumPy, Scikit-learn, SQL | Data processing, statistical analysis, insights |
 | **Machine Learning** | TensorFlow, PyTorch, Scikit-learn | Predictive models, classification, regression |
 | **Cloud Architecture** | AWS, Azure, Docker | Deployment, CI/CD, containerization |
